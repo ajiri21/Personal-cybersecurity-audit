@@ -1,6 +1,39 @@
 PHASE 2
-Device manufacturer: redmi
-device model : Redmi 14C
+Device manufacturer: Redmi
+device model : Redmi 12C
 andriod version : 14
 andriod security patch level 2025/01/01
 device type: Andriod
+
+PHASE 3 - Security configuration assessmennt
+Is screen lock enabled? Yes
+Is the pin/password strong? Fairly
+Is fingerprint authentication enabled? Yes
+Does the device lock authomatically? Yes
+Is sesitive notification content hidden on the lock screen? No
+
+Google Account Security
+Two step verification: Nil
+Recent Security activity: No activity in the last 20 days
+Devices igned into the account
+Recovery email and phone: recovery email sufficient but, phone numbers no longer in use were connected
+Available passkeys: MFA not available
+Password security alerts: No compromise found
+
+NOTABLES:
+Phone numbers no longer in use have been added to the google account up
+remove other non related devices connected to the google account
+
+PASSWORD CHECK
+Whether passwords are re-used across accounts: Yes
+Whether passwords are sufficiently long and unique: Majority
+Whether weak or easily guessed passwords are used: Yes
+Whether a password manager is used: Yes 
+Whether compromised passwords have been identified through a trusted password-checking service: Yes
+
+Multi-factor Authentication Availablity accross the following devices;
+Google: Nil
+Whatsapp: Yes
+Instagram: Yes
+Facebook: Nil
+online services account: Nil
