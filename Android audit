@@ -1,9 +1,9 @@
 PHASE 2
 Device manufacturer: Redmi
-device model : Redmi 12C
-andriod version : 14
-andriod security patch level 2025/01/01
-device type: Andriod
+Device model : Redmi 12C
+Andriod version : 14
+Andriod security patch level: 2025/01/01
+Device type: Andriod
 
 PHASE 3 - Security configuration assessmennt
 Is screen lock enabled? Yes
@@ -15,14 +15,14 @@ Is sesitive notification content hidden on the lock screen? No
 Google Account Security
 Two step verification: Nil
 Recent Security activity: No activity in the last 20 days
-Devices igned into the account
+Devices signed into the account
 Recovery email and phone: recovery email sufficient but, phone numbers no longer in use were connected
 Available passkeys: MFA not available
 Password security alerts: No compromise found
 
 NOTABLES:
 Phone numbers no longer in use have been added to the google account up
-remove other non related devices connected to the google account
+Remove other non-related devices connected to the google account
 
 PASSWORD CHECK
 Whether passwords are re-used across accounts: Yes
@@ -47,7 +47,7 @@ Location: acess granted to camera, chrome, maps, xender. 8 of 52 apps; 7 allowed
 Photos and Videos: 12 of 39 apps allowed; 2 of the apps, excess permission
 Files: 0 of 0 apps allowed
 SMS: 5 of 9 apps
-call logs: 4 of 8 apps
+Call logs: 4 of 8 apps
 Phone access: MFA
 
 SOFTWARE UPDATES
